@@ -1,0 +1,3 @@
+python node.py -i 50 -m 10105 -o 10103 10104 -p 9050
+python node.py -i 50 -m 10104 -o 10105 10103 -p 9040
+python node.py -i 50 -m 10103 -o 10105 10104 -p 9030
